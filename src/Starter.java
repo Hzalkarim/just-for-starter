@@ -8,4 +8,8 @@ public class Starter {
 
         //fkr?c?=?fkrbubp$mcpqbfkr@"34")!
     }
+
+    public static int multiply(int a, int b){
+        return a * b;
+    }
 }
